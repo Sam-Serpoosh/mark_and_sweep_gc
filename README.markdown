@@ -37,4 +37,4 @@ and that'll run all the tests and let you know if something fails.
 
 I strongly recommend you to read Bob's blog post on this. I've raed a lot of blogs/articles on garbage collection algorithms and approaches but hands down this one had the **SIMPLICITY** factor in its explanation and implementation nicely.
 
-Thanks to Bob for motivation this piece of code :)
+Thanks to Bob for motivating this piece of code :)
